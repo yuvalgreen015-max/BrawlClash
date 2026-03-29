@@ -9,7 +9,7 @@
   "theme_color": "#ffd600",
   "icons": [
     {
-      "src": /BrawlClash/icon.png
+      "src": "/BrawlClash/icon.png"
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
