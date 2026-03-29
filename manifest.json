@@ -2,7 +2,7 @@
   "name": "BrawlClash",
   "short_name": "BrawlClash",
   "description": "לוחמי ישראל - משחק קרב",
-  "start_url": "/BrawlClash/BrawlClash.html",
+  "start_url": "/BrawlClash/BrawlClash_clean.html",
   "display": "fullscreen",
   "orientation": "landscape",
   "background_color": "#0a0a0f",
